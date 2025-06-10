@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+If you're curious about my FTE contribution graph:
+
+![image](https://github.com/user-attachments/assets/bad1698c-ff7f-4dc3-acbd-583cc3f4c584)
+
+
 <!--
 **vinceterp/vinceterp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
